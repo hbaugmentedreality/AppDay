@@ -18,7 +18,7 @@ body {
 }
 
 model-viewer {
-  width: 100%;
+  width: 80%;
   height: 800px;
   background-color: #F2F2F2;
   --poster-color: #FAFAFA;
